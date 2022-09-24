@@ -1,5 +1,6 @@
 ﻿10041 = {
 	name = "Oanez"
+	female = yes
 	dynasty_house = house_cornouaille
 	martial = 5
 	diplomacy = 6
